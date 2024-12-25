@@ -1,11 +1,11 @@
-# Table of contents
+# Table of Contents
 # Learn more at https://jupyterbook.org/customize/toc.html
 
 format: jb-book
 root: intro
 parts:
-  chapters:
-  - file: Education
-  - file: Experience
-  - file: Publications
-  
+  - caption: "Main Sections"
+    chapters:
+      - file: Education
+      - file: Experience
+      - file: Publications

@@ -8,4 +8,6 @@ parts:
     chapters:
       - file: Education
       - file: Experience
+      - file: Skills
       - file: Publications
+      

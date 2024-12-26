@@ -1,11 +1,16 @@
 ### Overview  
 
-A computer scientist and researcher with expertise in data science, 
-semantic web technologies, and knowledge-based AI systems. 
-My work tackles real-world challenges by developing ontologies, knowledge graphs, 
-and automated reasoning systems with proficiency in data analysis, Python, SPARQL, and platforms such as Stardog. 
-I work collaboratively across disciplines to ensure the reliability of AI systems and effectively convey complex advancements, 
-combining analytical expertise, technical skills, and a dedication to innovation.
+I am a computer scientist and researcher with expertise in data science, semantic web technologies, and AI systems. 
+My work addresses real-world challenges by creating ontologies, building knowledge graphs, and applying automated reasoning.
+I collaborate with experts across various fields to design practical ontologies, 
+which I populate with diverse datasets to develop reliable knowledge graphs.
+
+I used proven research methods to develop and publish the Forest Observatory Ontology (FOO) (https://ontology.forest-observatory.cardiff.ac.uk),
+combining domain expertise with semantic technologies. 
+These knowledge graphs enable semantic reasoning and deep learning to uncover insights and make accurate predictions.
+
+With skills in Python, SPARQL, and platforms like Stardog and GraphDB, I focus on making advanced technologies practical and accessible.
+My goal is to create reliable, transparent AI systems that solve meaningful problems and communicate complex ideas clearly.
 
 Connect with me  
 - [<img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" width="16"> LinkedIn](https://www.linkedin.com/in/naeima-hamed-ba553041/)  

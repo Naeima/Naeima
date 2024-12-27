@@ -1,14 +1,8 @@
-### Languages, skills, and hobbies
-
- Languages
-- English: Fluent
-- Arabic: Fluent
-- Kurdish: Beginner
-- Welsh: Beginner
-
+### Skills, languages, and hobbies
 
 Professional Skills
-Programming and Data Analysis
+
+
 - Python: Skilled in data analysis, web development, visualisation, graph modelling, and machine learning.
 - Query Languages: Experienced in using SQL, GraphQL, and SPARQL to work with various types of data.
 Research and Productivity Tools
@@ -21,8 +15,8 @@ Technical Writing and Documentation
 Collaborative Platforms
 - GitHub: Experienced in version control, teamwork, and managing projects.
 
-
 Interpersonal Skills
+
 - Communication: Clear and effective in both speaking and writing.
 - Teamwork: Works well with others to achieve shared goals.
 - Time Management: Organised and able to meet deadlines efficiently.
@@ -34,8 +28,15 @@ Interpersonal Skills
 - Creativity: Brings fresh ideas and innovative thinking to tasks.
 - Flexibility: Adapts easily to new situations and changing priorities.
 
+ Languages
+
+- English: Fluent
+- Arabic: Fluent
+- Kurdish: Beginner
+- Welsh: Beginner
 
 Hobbies
+
 - Fitness: Staying active and healthy through regular exercise.
 - Reading: Enjoys exploring a variety of books and topics.
 - Coding: Passionate about creating and experimenting with software.

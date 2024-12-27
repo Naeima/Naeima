@@ -1,6 +1,6 @@
 ### Skills, languages, and hobbies
 
-Professional Skills
+**Professional Skills**
 
 
 - Python: Skilled in data analysis, web development, visualisation, graph modelling, and machine learning.
@@ -9,13 +9,16 @@ Research and Productivity Tools
 - Knowledge Representation: Familiar with Protégé and knowledge graph platforms like Stardog and GraphDB.
 - Data Analysis Software: Proficient in SPSS and NVivo for analysing both quantitative and qualitative data.
 - Edge Computing: Experienced in using edge computing for data processing and analytics in distributed systems.
-Technical Writing and Documentation
+
+
+**Technical Writing and Documentation**
+
 - LaTeX: Skilled in creating high-quality academic documents such as papers and theses.
 - Microsoft Office: Proficient in Word and Excel for writing, analysis, and reporting.
 Collaborative Platforms
 - GitHub: Experienced in version control, teamwork, and managing projects.
 
-Interpersonal Skills
+**Interpersonal Skills**
 
 - Communication: Clear and effective in both speaking and writing.
 - Teamwork: Works well with others to achieve shared goals.
@@ -28,14 +31,14 @@ Interpersonal Skills
 - Creativity: Brings fresh ideas and innovative thinking to tasks.
 - Flexibility: Adapts easily to new situations and changing priorities.
 
- Languages
+**Languages**
 
 - English: Fluent
 - Arabic: Fluent
 - Kurdish: Beginner
 - Welsh: Beginner
 
-Hobbies
+**Hobbies**
 
 - Fitness: Staying active and healthy through regular exercise.
 - Reading: Enjoys exploring a variety of books and topics.

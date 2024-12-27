@@ -10,4 +10,5 @@ parts:
       - file: Experience
       - file: Skills
       - file: Publications
+      - file: CV
       

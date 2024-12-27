@@ -1,13 +1,13 @@
 ### Languages, skills, and hobbies
 
-# Languages
+ Languages
 
 - English (Fluent)
 - Arabic (Fluent)
 - Kurdish (Beginner)
 - Welsh (Beginner)
 
-# Hard Skills  
+ Hard Skills  
  
 - Python programming language (data analysis, web development, visualisation, graph modelling, machine/deep learning)
 - Query languages (SQL, GraphQL, and SPARQL)
@@ -20,7 +20,7 @@
 - NVivo 
 - Conversational AI
 
-# Soft Skills
+ Soft Skills
 
 - Effective communication skills
 - Team work 
@@ -33,7 +33,7 @@
 - Creative
 - Flexible  
 
-# Hobbies
+ Hobbies
 
 - Fitness 
 - Reading

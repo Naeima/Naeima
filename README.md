@@ -9,4 +9,4 @@ Thanks for visiting my page!
  ![image](https://user-images.githubusercontent.com/57564713/185811715-03aae6c5-f472-4563-b444-b0893fc2e123.png)
 
 
-📫 How to contact me: send me an email or chat with my bot at https://naeima.github.io/chatbot
+📫 How to contact me: please visit my website at https://naeima.github.io/Naeima/

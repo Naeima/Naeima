@@ -1,7 +1,7 @@
 # Curriculum Vitae (CV)  
 ## Naeima Hamed  
 *Computer Scientist and Researcher*  
-<sub>[LinkedIn](https://www.linkedin.com) | [Google Scholar](https://scholar.google.com) | [ResearchGate](https://www.researchgate.net) | [Research Website](https://ontology.forest-observatory.cardiff.ac.uk)</sub>  
+<sub>Contact: hamednh@cardiff.ac.uk, naeima@cardiffcomputercentre.com, naeima.hamed@gmail.com</sub>  
 
 ---
 

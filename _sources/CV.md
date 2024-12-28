@@ -9,11 +9,11 @@
     - BSc in Computer Engineering, The Future University, Sudan (1995–2000): Recognised by  the National Recognition Information Centre for the United Kingdom (NARIC).
 
 - Experience:
-    - Graduate Tutor, Cardiff University (2023–Present): Supervise undergraduate projects and assist modules’ instructor during lectures.
+    - Graduate Tutor, Cardiff University (2023–Present): Supervise undergraduate projects and assist modules’ instructors during lectures.
     - Director, Cardiff Computer Centre (2013–Present): Design and build custom computers, repair hardware and software, and perform data recovery.
 
 - Skills: 
-    - Programming (Python), SPARQL, Stardog, GraphDB, TensorFlow, LaTeX, Microsoft Office.
+    - Time-Series Analysis, Edge Computing, Statistical modelling, Machine learning, Deep learning, Python, Juypter Book, TensorFlow,  RDFLib, Web Ontology Language (OWL2), Resource Description Framework (RDF), Linked Data, SPARQL, Google Colab, LaTeX, Microsoft Office.
     - Languages: Fluent in English and Arabic.
     - Hobbies: Fitness, Reading, Coding, Writing, Building Computers.
 

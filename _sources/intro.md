@@ -2,8 +2,7 @@
  
 I am a computer scientist and researcher with expertise in data science, semantic web technologies, and AI systems. My work addresses real-world challenges by creating ontologies, building knowledge graphs, and applying automated reasoning to develop practical solutions.  
 
-One of my key projects is the Forest Observatory Ontology (FOO) ([https://ontology.forest-observatory.cardiff.ac.uk](https://ontology.forest-observatory.cardiff.ac.uk)). I developed this ontology for the Forest Observatory (forest-observatory.cardiff.ac.uk), with expert input to help integrate diverse wildlife datasets, especially from hard-to-reach populations, to support better decision-making. 
-I then populated FOO with diverse wildlife graph datasets to form an ontology-based knowledge graph. This knowledge graph has been used to enable semantic reasoning and deep learning. For example, I used it to predict elephant movements with 99.04% accuracy, surpassing existing methods, and to detect potential poaching incidents.  
+One of my key projects is the Forest Observatory Ontology (FOO) (ontology.forest-observatory.cardiff.ac.uk). I developed this ontology for the Forest Observatory (forest-observatory.cardiff.ac.uk).  With expert input, I integrated diverse wildlife datasets, especially from hard-to-reach populations, to form an ontology-based knowledge graph. This knowledge graph has been used to enable semantic reasoning and deep learning. For example, I used it to predict elephant movements with 99.04% accuracy, surpassing existing methods, and to detect potential poaching incidents.  
 
 I have also extended my work to IoT data marketplaces. My approach allows users to query and purchase only the data needed for specific tasks, such as training AI models, making data usage more efficient and accessible.  
 

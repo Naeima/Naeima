@@ -4,7 +4,7 @@
 <sub>hamednh@cardiff.ac.uk, naeima@cardiffcomputercentre.com, naeima.hamed@gmail.com, naeima.github.io/Naeima/</sub>
 
 - Education:
-    - PhD in Computer Science, Cardiff University (2020–2024): Semantic Data Integration for Forest Observatories. Contributions: integrated heterogeneous datasets, developed scalable knowledge graphs, extended methodologies to IoT marketplaces, and published in peer-reviewed journals. Achieved a predictive accuracy of 99.04% using ontology-based knowledge graphs containing over 6 million triples for forest observatories.
+    - PhD in Computer Science, Cardiff University (2020–2024): Developed the Forest Observatory Ontology (ontology.forest-observatory.cardiff.ac.uk) and populated it with diverse wildlife datasets transformed into Resource Description Framework (RDF) graphs. The resulting ontology-based knowledge graph, with over 6 million triples, was used to predict elephant movements with 99.04% accuracy through deep learning and to apply semantic web reasoning for forecasting poaching events. The semantic data integration approach was also extended to IoT data marketplaces to enable more precise data acquisition instead of bulk purchasing.
     - MSc in Data Science, Cardiff University (2018–2019, Distinction): Advanced training in statistics, operational research, and machine learning.
     - BSc in Computer Engineering, The Future University, Sudan (1995–2000): Recognised by  the National Recognition Information Centre for the United Kingdom (NARIC).
 

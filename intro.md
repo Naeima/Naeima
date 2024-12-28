@@ -6,11 +6,10 @@ I collaborate with experts across various fields to design practical ontologies,
 which I populate with diverse datasets to develop reliable knowledge graphs.
 
 I used proven research methods to develop and publish the Forest Observatory Ontology (FOO) (https://ontology.forest-observatory.cardiff.ac.uk),
-combining domain expertise with semantic technologies. 
-These knowledge graphs enable semantic reasoning and deep learning to uncover insights and make accurate predictions.
+and its knowledge graphs. 
+These knowledge graphs enable semantic reasoning and deep learning to make accurate predictions.
 
 With skills in Python, SPARQL, and platforms like Stardog and GraphDB, I focus on making advanced technologies practical and accessible.
-My goal is to create reliable, transparent AI systems that solve meaningful problems and communicate complex ideas clearly.
 
 
 ```{tableofcontents}

@@ -12,7 +12,7 @@
 
 - **Contributions and Achievements:**  
   - Designed and implemented methodologies for integrating heterogeneous datasets using semantic web technologies and ontologies.  
-  - Developed scalable knowledge graph models to facilitate advanced querying and decision support for forest management and conservation. 
+  - Developed scalable knowledge graph to facilitate advanced querying and decision support for forest management and conservation. 
   - Generalised my methodologies to enhance their applicability to IoT data marketplaces. 
   - Published research outcomes in leading peer-reviewed journals and presented at international conferences.  
   - Collaborated with interdisciplinary teams to apply semantic integration approaches to real-world forest observatory applications.  
@@ -23,7 +23,7 @@
 **Grade:** Distinction  
 
 - **Overview:**  
-  A joint honours degree offered by the School of Mathematics and the School of Computer Science and Informatics, providing an invaluable opportunity to learn from leading experts in Statistics, Operational Research, and Computer Science.
+  A joint honours degree offered by the School of Mathematics and the School of Computer Science and Informatics.
 
 - **Skills and Knowledge Acquired:**  
   - **Mathematics:**  
@@ -31,7 +31,7 @@
     2. Designing algorithms to solve complex mathematical problems and achieve optimal or near-optimal solutions to decision-making challenges.  
     3. Developing dynamic, interactive, and scalable forecasting applications utilising statistical models, optimisation techniques, and programming tools.  
   - **Computer Science:**  
-    1. Applying data mining and pattern recognition techniques, including supervised and unsupervised machine learning methods.  
+    1. Applying data mining and pattern recognition techniques such as supervised and unsupervised machine learning methods.  
     2. Gaining proficiency in Python programming for data analysis.  
     3. Developing websites and dashboards to communicate analyses through interactive and dynamic visualisations.  
     4. Employing distributed and cloud computing technologies to manage and process large-scale data.

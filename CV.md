@@ -6,8 +6,7 @@
 ---
 
 #### Overview  
-I am a computer scientist and researcher specialising in data science, semantic web technologies, and AI. My work addresses real-world challenges by creating ontologies, developing knowledge graphs, and applying automated reasoning. I collaborate across disciplines to deliver practical solutions and populate knowledge graphs with diverse datasets, enhancing decision-making and interoperability.  
-
+I am a computer scientist and researcher specialising in data science, semantic web technologies, and AI. My work addresses real-world challenges by creating ontologies, developing knowledge graphs, and applying automated reasoning. I collaborate across disciplines to deliver practical solutions and populate knowledge graphs with diverse datasets to support decision-making. 
 ---
 
 ### Education  
@@ -63,7 +62,7 @@ I am a computer scientist and researcher specialising in data science, semantic 
 Cardiff, United Kingdom  
 
 - Supervise undergraduate projects, providing guidance on research methodologies, technical implementations, and reporting.  
-- Assist module leaders in delivering lectures, ensuring student engagement and participation.  
+- Assist module leaders in delivering lectures. 
 
 #### **Cardiff Computer Centre Ltd**  
 **Director / Computer Engineer**  
@@ -107,19 +106,19 @@ Cardiff, United Kingdom
 
 ### Publications  
 
-- **Journal Paper**:  
+1.  **Journal Paper**:  
   Naeima Hamed, Andrea Gaglione, Alex Gluhak, Omer Rana, and Charith Perera. (2023). **Query Interface for Smart City Internet of Things Data Marketplaces: A Case Study.** *ACM Transactions on Internet of Things*, 4(3), Article 19, 39 pages. [https://doi.org/10.1145/3609336](https://doi.org/10.1145/3609336)  
 
-- **Book Chapter**:  
+2.  **Book Chapter**:  
   Naeima Hamed, Omer Rana, Pablo Orozco-terWengel, Benoît Goossens, and Charith Perera. (2023). **FOO: An Upper-Level Ontology for the Forest Observatory.** In Pesquita, C., et al. *The Semantic Web: ESWC 2023 Satellite Events.* Lecture Notes in Computer Science, vol 13998. Springer, Cham. [https://doi.org/10.1007/978-3-031-43458-7_29](https://doi.org/10.1007/978-3-031-43458-7_29)  
 
-- **Journal Paper**:  
+3.  **Journal Paper**:  
   Naeima Hamed, Omer Rana, Pablo Orozco-terWengel, Benoît Goossens, and Charith Perera. (2024). **A Comparison of Open Data Observatories.** *Journal of Data and Information Quality* (Accepted, November 2024). [https://doi.org/10.1145/3705863](https://doi.org/10.1145/3705863)  
 
-- **Journal Paper**:  
+4. **Journal Paper**:  
   Naeima Hamed, Omer Rana, Pablo Orozco-terWengel, Benoît Goossens, and Charith Perera. (2024). **FooDS: Ontology-Based Knowledge Graphs for Forest Observatories.** *ACM Journal on Computing and Sustainable Societies* (Accepted, November 2024). [https://doi.org/10.1145/3707637](https://doi.org/10.1145/3707637)  
 
-- **Journal Paper**:  
+5. **Journal Paper**:  
   Naeima Hamed, Omer Rana, Pablo Orozco-terWengel, Benoît Goossens, and Charith Perera. (2024). **PoachNet: Predicting Poaching Using an Ontology-Based Knowledge Graph.** *Sensors*, 24(24), Article 8142. [https://doi.org/10.3390/s24248142](https://doi.org/10.3390/s24248142)  
 
 ---

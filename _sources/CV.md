@@ -13,7 +13,7 @@
     - Director, Cardiff Computer Centre (2013–Present): Design and build custom computers, repair hardware and software, and perform data recovery.
 
 - Skills: 
-    - Programming (Python), SPARQL, Stardog, GraphDB, Tensorflow, LaTeX, Microsoft Office.
+    - Programming (Python), SPARQL, Stardog, GraphDB, TensorFlow, LaTeX, Microsoft Office.
     - Languages: Fluent in English and Arabic.
     - Hobbies: Fitness, Reading, Coding, Writing, Building Computers.
 

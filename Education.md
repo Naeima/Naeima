@@ -44,5 +44,5 @@
   **Bachelor of Science - BS, Computer Engineering**
   
    *1995 - 2000*
-  - Officially recognised by UK NARIC as comparable to British Bachelor degree standard. 
+  - Officially recognised by  the National Recognition Information Centre for the United Kingdom (NARIC) as comparable to British Bachelor degree standard. 
 ---

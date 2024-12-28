@@ -6,7 +6,7 @@
 - Education:
     - PhD in Computer Science, Cardiff University (2020–2024): Semantic Data Integration for Forest Observatories. Contributions: integrated heterogeneous datasets, developed scalable knowledge graphs, extended methodologies to IoT marketplaces, and published in peer-reviewed journals. Achieved a predictive accuracy of 99.04% using ontology-based knowledge graphs containing over 6 million triples for forest observatories.
     - MSc in Data Science, Cardiff University (2018–2019, Distinction): Advanced training in statistics, operational research, and machine learning.
-    - BSc in Computer Engineering, The Future University, Sudan (1995–2000): Recognised by UK NARIC.
+    - BSc in Computer Engineering, The Future University, Sudan (1995–2000): Recognised by  the National Recognition Information Centre for the United Kingdom (NARIC).
 
 - Experience:
     - Graduate Tutor, Cardiff University (2023–Present): Supervise undergraduate projects and assist modules’ instructor during lectures.

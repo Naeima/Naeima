@@ -1,16 +1,12 @@
-### Overview  
+## About Me 
+ 
+I am a computer scientist and researcher with expertise in data science, semantic web technologies, and AI systems. My work addresses real-world challenges by creating ontologies, building knowledge graphs, and applying automated reasoning to develop practical solutions.  
 
-I am a computer scientist and researcher with expertise in data science, semantic web technologies, and AI systems. 
-My work addresses real-world challenges by creating ontologies, building knowledge graphs, and applying automated reasoning.
-I collaborate with experts across various fields to design practical ontologies, 
-which I populate with diverse datasets to develop reliable knowledge graphs.
+One of my key projects is the Forest Observatory Ontology (FOO) ([https://ontology.forest-observatory.cardiff.ac.uk](https://ontology.forest-observatory.cardiff.ac.uk)). I developed this ontology with expert input to help integrate diverse wildlife datasets, especially from hard-to-reach populations, to support better decision-making. These knowledge graphs have been used to enable semantic reasoning and deep learning. For example, I used them to predict elephant movements with 99.04% accuracy, surpassing existing methods, and to detect potential poaching incidents.  
 
-I used proven research methods to develop and publish the Forest Observatory Ontology (FOO) (https://ontology.forest-observatory.cardiff.ac.uk),
-and its knowledge graphs. 
-These knowledge graphs enable semantic reasoning and deep learning to make accurate predictions.
+I have also extended my work to IoT data marketplaces. My approach allows users to query and purchase only the data needed for specific tasks, such as training AI models, making data usage more efficient and accessible.  
 
-With skills in Python, SPARQL, and platforms like Stardog and GraphDB, I focus on making advanced technologies practical and accessible.
-
+I am skilled in Python, SPARQL, and platforms like Stardog and GraphDB. By collaborating with experts from various disciplines, I ensure that semantic technologies are applied in practical ways, such as in forest observatory projects, to create solutions that are both reliable and impactful.
 
 ```{tableofcontents}
 ```

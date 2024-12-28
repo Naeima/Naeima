@@ -3,11 +3,8 @@
 *Computer Scientist and Researcher*  
 <sub>Contact: hamednh@cardiff.ac.uk, naeima@cardiffcomputercentre.com, naeima.hamed@gmail.com</sub>  
 
----
-
-#### Overview  
 I am a computer scientist and researcher specialising in data science, semantic web technologies, and AI. My work addresses real-world challenges by creating ontologies, developing knowledge graphs, and applying automated reasoning. I collaborate across disciplines to deliver practical solutions and populate knowledge graphs with diverse datasets to support decision-making. 
----
+
 
 ### Education  
 
@@ -24,7 +21,7 @@ I am a computer scientist and researcher specialising in data science, semantic 
 - **Contributions and Achievements:**  
   - Designed and implemented methods to integrate heterogeneous datasets using semantic web technologies and ontologies.  
   - Developed scalable knowledge graph models to support advanced querying and decision-making for forest management and conservation.  
-  - Adapted methodologies for IoT data marketplaces.  
+  - Extended methodologies to IoT data marketplaces.  
   - Published findings in leading peer-reviewed journals and presented at international conferences.  
   - Collaborated with interdisciplinary teams to apply semantic integration to practical forest observatory use cases.  
 
@@ -77,20 +74,20 @@ Cardiff, United Kingdom
 
 ### Skills  
 
-- **Programming Languages**: Python (data analysis, web development, visualisation, graph modelling, machine learning)  
-- **Query Languages**: SPARQL  
-- **Knowledge Graph Platforms**: Stardog, GraphDB  
-- **Technical Writing**: LaTeX  
-- **Productivity Tools**: Microsoft Word, Excel  
+- Programming Languages: Python (data analysis, web development, visualisation, graph modelling, machine learning)  
+- Query Languages: SPARQL  
+- Knowledge Graph Platforms: Stardog, GraphDB  
+- Technical Writing: LaTeX  
+- Productivity Tools: Microsoft Word, Excel  
 
 ---
 
 ### Languages  
 
-- **English**: Fluent  
-- **Arabic**: Fluent  
-- **Kurdish**: Beginner  
-- **Welsh**: Beginner  
+- English: Fluent  
+- Arabic: Fluent  
+- Kurdish: Beginner  
+- Welsh: Beginner  
 
 ---
 

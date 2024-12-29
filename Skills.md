@@ -2,7 +2,7 @@
 
 **Professional Skills**
 
-1.  Python: Skilled in data analysis, web development, visualisation, graph modelling, and machine learning.
+1.  Python: Skilled in data analysis, time-series, web development, visualisation, graph modelling, and machine/deep learning.
 2.  Query Languages: Experienced in using SQL, GraphQL, and SPARQL to work with various types of data.
 3.  Knowledge Representation: Familiar with Protégé and knowledge graph platforms like Stardog and GraphDB.
 4.  Data Analysis Software: Proficient in SPSS and NVivo for analysing both quantitative and qualitative data.
@@ -13,8 +13,10 @@
 
 1. LaTeX: Skilled in creating high-quality academic documents such as papers and theses.
 2. Microsoft Office: Proficient in Word and Excel for writing, analysis, and reporting.
-   Collaborative Platforms
-3. GitHub: Experienced in version control, teamwork, and managing projects.
+
+**Collaborative Platforms**
+1. GitHub: Experienced in version control, teamwork, and managing projects. 
+2. GitLab: Experienced in managing projects.  
 
 **Interpersonal Skills**
 

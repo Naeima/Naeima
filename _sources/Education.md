@@ -15,7 +15,7 @@
   - Reviewed and compared 13 open data observatories to evaluate data management, data types, and challenges.  
   - Proposed semantic web technologies to integrate reseach data silos.  
   - Built the Forest Observatory Ontology (FOO) and integrated four wildlife datasets into a knowledge graph with over 6 million RDF triples.  
-  - Used TensorFlow by Google to predict elephant movements, achieving 99.04% accuracy, outperforming existing benchmarks of 90.95% and 91.64%.  
+  - Used Google's TensorFlow and Keras framework to predict elephant movements, achieving 99.04% accuracy, outperforming existing benchmarks of 90.95% and 91.64%.  
   - Applied semantic reasoning to predict poaching incidents based on movements data.  
   - Adapted the approach for IoT data marketplaces, enabling granualar data queries and selective purchasing for AI training.  
   - Published findings in top peer-reviewed journals and presented at international conferences.    

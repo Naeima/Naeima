@@ -1,7 +1,7 @@
 ### Education
 
 #### Cardiff University / Prifysgol Caerdydd  
-**Doctor of Philosophy (PhD) in Computer Science and Informatics**  
+**Doctor of Philosophy (PhD)**  
 *2020 - 2024*  
 
 - **Research Focus:**  

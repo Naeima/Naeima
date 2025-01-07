@@ -42,8 +42,6 @@
 
 1.  Fitness: Staying active and healthy through regular exercise.
 2.  Reading: Enjoys exploring a variety of books and topics.
-3.  Coding: Passionate about creating and experimenting with software.
-4.  Writing: Skilled in expressing ideas through written work.
-5.  Building Computers: Enjoys assembling and customising computer systems.
+3.  Travel: Enjoys exploring diverse destinations and cultures.
 ---
 

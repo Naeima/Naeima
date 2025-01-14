@@ -18,10 +18,6 @@ I generalised my semantic data integration approach to a different domain, speci
 For this project, I developed an ontology with input from domain experts and populated it with data from six heterogeneous sensors, where each sensor maintained its own knowledge graph. 
 Semantic reasoning rules were applied to these knowledge graphs to address practical use cases.
 
-The semantic data integration approach was evaluated using three configurations, where portions of each sensor’s knowledge graph were stored on resource-constrained edge devices, and federated SPARQL queries were executed to retrieve data from these devices.
-The experiments measured accuracy and response times across the configurations. 
-The findings demonstrated that decentralised knowledge graphs, stored on edge devices with embedded reasoning rules, responded more efficiently to federated SPARQL queries. 
-This configuration was recommended as the optimal setup for future IoT data marketplace deployments.
 
 ```{tableofcontents}
 ```

@@ -1,8 +1,8 @@
 ## Overview
  
-I am a computer engineer, scientist and researcher with expertise in data science, semantic web technologies, and AI systems. My work addresses real-world challenges by creating ontologies, building knowledge graphs, and applying automated reasoning to achieve practical solutions.  
+I am a computer scientist with experience in data science, semantic web technologies, and decision-making AI systems.  My work addresses real-world challenges by creating ontologies, building knowledge graphs, and applying automated reasoning to achieve practical solutions.  
 
-One of my key projects is the Forest Observatory Ontology (FOO) (ontology.forest-observatory.cardiff.ac.uk), developed with input from domain experts and wildlife data provided by the Danau Girang Field Centre (DGFC) (cardiff.ac.uk/danau-girang-field-centre), a research facility in the Forest of Sabah, Malaysian Borneo.
+One of the key projects is the Forest Observatory Ontology (FOO) (ontology.forest-observatory.cardiff.ac.uk), developed with input from domain experts and wildlife data provided by the Danau Girang Field Centre (DGFC) (cardiff.ac.uk/danau-girang-field-centre), a research facility in the Forest of Sabah, Malaysian Borneo.
 FOO brings together diverse wildlife datasets into an ontology-based knowledge graph as shown in the diagram below.
 
 

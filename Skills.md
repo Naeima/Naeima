@@ -25,7 +25,7 @@
 3.  Time Management: Organised and able to meet deadlines efficiently.
 4.  Responsibility: Reliable and takes ownership of tasks.
 5.  Dependability: Trusted to deliver consistent results.
-6.  Positivity: Maintains a cheerful and encouraging outlook.7
+6.  Positivity: Maintains a cheerful and encouraging outlook.
 7.  Self-Motivation: Driven to work independently and meet objectives.
 8.  Resilience: Handles challenges and setbacks with determination.
 9.  Creativity: Brings fresh ideas and innovative thinking to tasks.
